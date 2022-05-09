@@ -1,0 +1,35 @@
+@media only screen and (max-device-width: 700px) {
+    table, tr, td { display: block; }
+	
+	td {
+
+		&:not(:first-child) {
+			clear: both;
+			padding: 4px 20px 4px 90px;
+			position: relative;
+			text-align: left;
+
+			&:before {
+				content: '';
+				display: block;
+				left: 0;
+				position: absolute;
+			}
+		}
+
+		&:nth-child(2):before { content: 'Name:'; }
+		&:nth-child(3):before { content: 'Username:'; }
+		&:nth-child(4):before { content: 'level:'; }
+		&:nth-child(5):before { content: 'is_active:'; }
+		&:nth-child(6):before { content: 'edit_user:'; }
+		&:nth-child(7):before { content: 'delete_user:'; }
+
+	}
+	
+	tr {
+		padding: $padding 0;
+		position: relative;
+		&:first-child { display: none; }
+	}
+        
+    }

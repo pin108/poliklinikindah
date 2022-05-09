@@ -1,0 +1,245 @@
+body{
+  height: auto;
+  font-family: 'Open Sans',sans-serif;
+}
+.st_scheduler_desktop{
+	width:100%;
+}
+.ui-autocomplete{
+	color:#858796;
+	font-size:15px;
+}
+a.bg-primary{
+	color:white
+}
+.table
+{
+	background: #fff !important;
+}
+.add_appointment {
+    display: block;
+    width: 100%;
+    height: 25px;
+    margin: 0;
+    padding: 5px;
+}
+.single-module .image img {
+  max-width: 100%;
+  height: 180px;
+  width: auto;
+}
+.single-module .extension_name {
+  font-size: large;
+  clear: both;
+  display: block;
+  margin: 5px 0;
+}
+.single-module .extension_description {
+  display: block;
+  margin-bottom: 10px;
+  font-size: small;
+}
+.single-module .extension_last_updated {
+  display: block;
+}
+.square-btn-adjust {
+  border: 0 solid transparent;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.single-module {
+  height: 450px;
+}
+.btn-grey {
+  color: #FFF;
+  background-color: #888;
+  border-color: #ccc;
+}
+.done {
+  text-decoration: line-through;
+      text-decoration-line: line-through;
+      text-decoration-style: solid;
+      text-decoration-color: currentcolor;
+      text-decoration-thickness: auto;
+}
+.block{
+  display: none;
+}
+.available_updates{
+  background-color: #cc1100;
+  color: white;
+  text-decoration: none;
+  padding: 3px 9px;
+  position: relative;
+  display: inline-block;
+  border-radius: 15px;
+}
+.required:after {
+  content:" *";
+  color: red;
+}
+body{
+  height: auto;
+  font-family: 'Open Sans',sans-serif;
+}
+.st_scheduler_desktop{
+	width:100%;
+}
+.ui-autocomplete{
+	color:#858796;
+	font-size:15px;
+}
+a.bg-primary{
+	color:white
+}
+.table
+{
+	background: #fff !important;
+}
+.add_appointment {
+    display: block;
+    width: 100%;
+    height: 25px;
+    margin: 0;
+    padding: 5px;
+}
+.single-module .image img {
+  max-width: 100%;
+  height: 180px;
+  width: auto;
+}
+.single-module .extension_name {
+  font-size: large;
+  clear: both;
+  display: block;
+  margin: 5px 0;
+}
+.single-module .extension_description {
+  display: block;
+  margin-bottom: 10px;
+  font-size: small;
+}
+.single-module .extension_last_updated {
+  display: block;
+}
+.square-btn-adjust {
+  border: 0 solid transparent;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.single-module {
+  height: 450px;
+}
+.btn-grey {
+  color: #FFF;
+  background-color: #888;
+  border-color: #ccc;
+}
+.done {
+  text-decoration: line-through;
+      text-decoration-line: line-through;
+      text-decoration-style: solid;
+      text-decoration-color: currentcolor;
+      text-decoration-thickness: auto;
+}
+.block{
+  display: none;
+}
+.form-control {
+  margin-bottom:10px;
+}
+.pagination {
+  display: inline-block;
+  padding-left: 0;
+  margin: 20px 0;
+  border-radius: 4px;
+}
+.pagination > li {
+  display: inline;
+}
+.pagination > li > a,
+.pagination > li > span {
+  position: relative;
+  float: left;
+  padding: 6px 12px;
+  margin-left: -1px;
+  line-height: 1.42857143;
+  color: #4e73df;
+  text-decoration: none;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+.pagination > li:first-child > a,
+.pagination > li:first-child > span {
+  margin-left: 0;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.pagination > li:last-child > a,
+.pagination > li:last-child > span {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+  color: #4e73df;
+  background-color: #eee;
+  border-color: #ddd;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  z-index: 2;
+  color: #fff;
+  cursor: default;
+  background-color: #4e73df;
+  border-color: #4e73df;
+}
+.pagination > .disabled > span,
+.pagination > .disabled > span:hover,
+.pagination > .disabled > span:focus,
+.pagination > .disabled > a,
+.pagination > .disabled > a:hover,
+.pagination > .disabled > a:focus {
+  color: #777;
+  cursor: not-allowed;
+  background-color: #fff;
+  border-color: #ddd;
+}
+.pagination-lg > li > a,
+.pagination-lg > li > span {
+  padding: 10px 16px;
+  font-size: 18px;
+}
+.pagination-lg > li:first-child > a,
+.pagination-lg > li:first-child > span {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+.pagination-lg > li:last-child > a,
+.pagination-lg > li:last-child > span {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+.pagination-sm > li > a,
+.pagination-sm > li > span {
+  padding: 5px 10px;
+  font-size: 12px;
+}
+.pagination-sm > li:first-child > a,
+.pagination-sm > li:first-child > span {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.pagination-sm > li:last-child > a,
+.pagination-sm > li:last-child > span {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
