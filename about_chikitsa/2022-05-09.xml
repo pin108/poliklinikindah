@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<chikitsa>
+	<last_modified_date>2022-01-31</last_modified_date>
+    <version>2.0.7</version>
+	<link>https:__sourceforge.net_projects_chikitsa_files_latest_download</link>
+	<download>
+		<download_id>1037</download_id>
+		<module>alert</module>
+		<title>Send Alerts</title>
+		<version>0.2.1</version>
+		<last_updated>2022-02-03</last_updated>
+		<chikitsa_version>2.0.7</chikitsa_version>
+		<usd_price>10</usd_price>
+		<description>Send Email and SMS Alerts to Patient and/or Doctors</description>
+		<download_link>https://chikitsa.net/downloads/send-alerts/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2017/11/transactional-bulk-sms-500x500-475x350-1.png</image_link>
+		<change_log>
+		    <changed>Send Alert for Item Goes Out OF Stock</changed>
+		</change_log>
+	</download>
+	<download>
+		<download_id>1047</download_id>
+		<module>doctor</module>
+		<title>Doctors</title>
+		<version>0.2.0</version>
+		<last_updated>2022-01-29</last_updated>
+		<chikitsa_version>2.0.6</chikitsa_version>
+		<usd_price>14</usd_price>
+		<description>Add Departments., Maintain Doctor's Profile.Indivdual Fees ,Flexible Schedule and Doctor Inavailability</description>
+		<download_link>https://chikitsa.net/downloads/doctor/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2017/11/bigstock-Medical-doctors-group-Isolate-27388721-1024x597-1.jpg</image_link>
+		<change_log>
+          <changed>Minor Fixes</changed>
+		</change_log>
+	</download>
+ 	<download>
+		<download_id>1024</download_id>
+		<module>frontend</module>
+		<title>Frontend</title>
+		<version>0.0.4</version>
+		<last_updated>2021-09-18</last_updated>
+		<chikitsa_version>2.0.1</chikitsa_version>
+		<usd_price>20</usd_price>
+		<description>Complete Website with Customizable options. Allow patients to book Appointments and view their records</description>
+		<download_link>https://chikitsa.net/downloads/front-end</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/edd/2019/11/shot-20191109-3179-1av046z.jpeg</image_link>
+		<change_log>
+		    <changed>Complete Frontend Website with customizable sections</changed>
+        <changed>Allow Patients to book online appointments</changed>
+        <changed>My account Page for your patients to see their visits and bills</changed>
+		</change_log>
+	</download>
+	<download>
+		<download_id>1049</download_id>
+		<module>gallery</module>
+		<title>Gallery</title>
+		<version>0.0.9</version>
+		<last_updated>2021-11-22</last_updated>
+		<chikitsa_version>2.0.4</chikitsa_version>
+		<usd_price>9.99</usd_price>
+		<description>Upload and Maintain pictures of patient progress date wise. Compare before and after pictures of patient.</description>
+		<download_link>https://chikitsa.net/downloads/gallery/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2017/11/beforeafter-768x683-1.jpg</image_link>
+	</download>
+	<download>
+		<download_id>1018</download_id>
+		<module>history</module>
+		<title>Custom Details</title>
+		<version>0.0.8</version>
+		<last_updated>2021-08-09</last_updated>
+		<chikitsa_version>2.0.0</chikitsa_version>
+		<usd_price>20</usd_price>
+		<description>Add Custom Fields for Patient Detail and Visit</description>
+		<download_link>https://chikitsa.net/downloads/medical-history/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2018/06/medical-information-1-150x150.jpg</image_link>
+	<change_log>
+		    <changed>Minor Changes</changed>
+		</change_log></download>
+	<download>
+		<download_id>1039</download_id>
+		<module>import</module>
+		<title>Import CSV</title>
+		<version>0.0.8</version>
+		<last_updated>2021-12-03</last_updated>
+		<chikitsa_version>2.0.5</chikitsa_version>
+		<usd_price>11</usd_price>
+		<description>Import CSV Data from your old Software</description>
+		<download_link>https://chikitsa.net/downloads/import-csv/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2017/11/banner-570x350-1.png</image_link>
+	</download>
+	<download>
+		<download_id>1035</download_id>
+		<module>marking</module>
+		<title>Marking</title>
+		<version>0.0.8</version>
+		<last_updated>2021-09-13</last_updated>
+		<chikitsa_version>2.0.0</chikitsa_version>
+		<usd_price>15</usd_price>
+		<description>Very useful extension for Skin Specialists and Dentist.Mark the treatment Areas on Female / Male Face ,Front / Back Body images to keep record</description>
+		<download_link>https://chikitsa.net/downloads/marking/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2017/11/53eb531a079bb1729bc477f7b098b508c1e99269c74a1-1.jpg</image_link>
+		<change_log>
+		    <changed>Upload your own images to mark</changed>
+		    <changed>Department wise image backgrounds (Doctor Extension required)</changed>
+		    <changed>Add Marking before saving Visit</changed>
+		</change_log>
+	</download>
+	<download>
+		<download_id>1029</download_id>
+		<module>menu_access</module>
+		<title>Menu Access</title>
+		<version>0.0.9</version>
+		<last_updated>2021-08-18</last_updated>
+		<chikitsa_version>2.0.0</chikitsa_version>
+		<usd_price>7</usd_price>
+		<description>Give or Revoke access to user categories on Navigation Menu.Create Additional User Categories.</description>
+		<download_link>https://chikitsa.net/downloads/menu-access/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2017/11/unnamed-1.png</image_link>
+	</download>
+	<download>
+		<download_id>1041</download_id>
+		<module>prescription</module>
+		<title>Prescription</title>
+		<version>0.0.7</version>
+		<last_updated>2021-08-17</last_updated>
+		<chikitsa_version>2.0.0</chikitsa_version>
+		<usd_price>7</usd_price>
+		<description>Maintain and Print Prescription</description>
+		<download_link>https://chikitsa.net/downloads/prescription/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2017/11/Drugs1-570x350-1.jpg</image_link>
+    <change_log>
+		    <changed>Minor Changes</changed>
+		</change_log>
+	</download>
+	
+	<download>
+		<download_id>1014</download_id>
+		<module>rooms</module>
+		<title>Rooms and Beds</title>
+		<version>0.0.3</version>
+		<last_updated>2021-09-16</last_updated>
+		<chikitsa_version>2.0.1</chikitsa_version>
+		<usd_price>14</usd_price>
+		<description>Allow Indoor Patients - Create Room Categories, Rooms and Allocate them to Patients</description>
+		<download_link>https://chikitsa.net/downloads/rooms-beds/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2019/06/photo-1519494080410-f9aa76cb4283-1.jpg</image_link>
+	</download>
+	<download>
+		<download_id>1027</download_id>
+		<module>stock</module>
+		<title>Medicine Store</title>
+		<version>0.1.9</version>
+		<last_updated>2021-03-15</last_updated>
+		<chikitsa_version>1.0.0</chikitsa_version>
+		<usd_price>14</usd_price>
+		<description>Maintain Medicine Stock and Purchase Register. Sell to Patients in Visit. Separate Sell of Medicine is included too.</description>
+		<download_link>https://chikitsa.net/downloads/medicine-store/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2017/11/uncategorized-charming-unique-ideas-for-shelving-unique-wall-shelving-units-unique-shelving-units-unique-wall-shelving-units-unique-shelving-material-unique-1-1.jpg</image_link>
+	</download>
+	<download>
+		<download_id>1020</download_id>
+		<module>sessions</module>
+		<title>Sessions</title>
+		<version>0.0.6</version>
+		<last_updated>2021-08-20</last_updated>
+		<chikitsa_version>2.0.0</chikitsa_version>
+		<usd_price>10</usd_price>
+		<description>Create Sessions of Appointments with different frequencies for your patients. Charge for Sessions. Track progress of Sessions</description>
+		<download_link>https://chikitsa.net/downloads/sessions/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2018/05/woman-on-therapist-couch-1.jpg</image_link>
+		<change_log>
+		    <changed>Minor Fixes</changed>
+		</change_log>
+	</download>
+	<download>
+		<download_id>1031</download_id>
+		<module>template</module>
+		<title>Receipt Template</title>
+		<version>0.1.0</version>
+		<last_updated>2021-08-06</last_updated>
+		<chikitsa_version>2.0.0</chikitsa_version>
+		<usd_price>4.2</usd_price>
+		<description>Option to add and modify the Receipt Template. Requires little HTML knowledge for perfect formatting.</description>
+		<download_link>https://chikitsa.net/downloads/receipt-template/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2017/11/Medical-Invoice-Template-in-Microsoft-Word-1.png</image_link>
+	</download>
+	<download>
+		<download_id>1033</download_id>
+		<module>treatment</module>
+		<title>Treatment</title>
+		<version>0.1.1</version>
+		<last_updated>2021-08-14</last_updated>
+		<chikitsa_version>2.0.0</chikitsa_version>
+		<usd_price>0</usd_price>
+		<description>Manage Treatment List and their Prices</description>
+		<download_link>https://chikitsa.net/downloads/treatment/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2017/11/Treatment_shutterstock_115857928-1.jpg</image_link>
+	</download>
+	<download>
+		<download_id>1016</download_id>
+		<module>lab</module>
+		<title>Lab</title>
+		<version>0.0.5</version>
+		<last_updated>2021-08-25</last_updated>
+		<chikitsa_version>2.0.0</chikitsa_version>
+		<usd_price>7</usd_price>
+		<description>Manage Lab Tests Charges and Reports</description>
+		<download_link>https://chikitsa.net/downloads/lab/</download_link>
+		<image_link>https://chikitsa.net/wp-content/uploads/2019/05/lab-1.jpg</image_link>
+		<change_log>
+			<changed>Instructions for Technician</changed>
+		    <changed>Display Doctor Name </changed>
+		</change_log>
+	</download>
+</chikitsa>

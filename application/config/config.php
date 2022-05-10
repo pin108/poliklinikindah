@@ -538,7 +538,7 @@ $config['current_version'] = '2.0.0';
 |
 */
        
-$config['currencySymbol'] = 'Rs.';
+$config['currencySymbol'] = 'Rp.';
 $config['decimalPlaces'] = '2';
 $config['decimalSymbol'] = '.';
 $config['thousandsSeparator'] = ',';

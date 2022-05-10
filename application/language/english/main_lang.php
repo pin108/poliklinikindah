@@ -5,15 +5,15 @@
 	$lang['main_title'] = "Chikitsa - Clinic Management System";
 	$lang['cmp_version'] = "Chikitsa Version";
 	$lang['cmp_name'] = "Sanskruti Technologies";
-	$lang['about_chikitsa'] = "About Chikitsa";
+$lang['about_chikitsa'] = "Tentang Aplikasi ini ";
 	//Form Headers
 	$lang['sign_in'] = "Sign In";
 	//Labels
-	$lang['5min'] = "5 Min";
-	$lang['7min'] = "7 Min";
-	$lang['15min'] = "15 Min";
-	$lang['30min'] = "30 Min";
-	$lang['1hr'] = "1 Hour";
+$lang['5min'] = "5 Menit";
+$lang['7min'] = "7 Menit";
+$lang['15min'] = "15 Menit";
+$lang['30min'] = "30 Menit";
+$lang['1hr'] = "1 Jam";
 	$lang['content_section'] = "Content Section";
 	$lang['main_section'] = "Main Section";
 	$lang['second_section'] = "Second Section";
@@ -21,11 +21,11 @@
 	$lang['background_color'] = "Background Color";
 	$lang['title_color'] = "Title Color";
 	$lang['text_color'] = "Text Color";
-	$lang['about'] = "About";
-	$lang['about_settings'] = "About Settings";
-	$lang['about_page_settings'] = "About Page Settings";
+$lang['about'] = "Tentang";
+$lang['about_settings'] = "Setelan Setings";
+$lang['about_page_settings'] = "Setelan Halaman ";
 	$lang['access_on_menu'] = "Access on menu";
-	$lang['access_code'] = "Access Code";
+$lang['access_code'] = "Akses Kode";
 	$lang['account_group_master'] = "Account Group Master";
 	$lang['account_details_meta'] = "Account Details Meta";
 	$lang['account_group'] = "Account Group";
