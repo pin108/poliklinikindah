@@ -138,7 +138,7 @@ class login extends CI_Controller {
 
 			$base_url  = $this->config->item('base_url');
 
-			redirect($base_url.'/install.php', 'refresh');
+			redirect($base_url.'/index.php/appointment/index', 'refresh');
 
 		}
 
